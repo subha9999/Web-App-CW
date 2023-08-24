@@ -1,0 +1,18 @@
+body{
+    margin: 100px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+.container{
+    padding:50px;
+}
+.form-group{
+    padding-bottom: 25px;
+}
+.mybtn{
+    background-color: rgb(213, 213, 241);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding:10px;
+    border-radius: 20%;
+
+}
